@@ -22,8 +22,9 @@
 
 ## 👥 Members
 * 🦊 **[seungcle](https://github.com/seungcle)** 
-* 🐰 **[팀원2 이름](https://github.com/팀원2-GitHub-ID)** 
-* 🐻 **[팀원3 이름](https://github.com/팀원3-GitHub-ID)** 
+* 🐰 **[sowjd](https://github.com/sowjd)** 
+* 🐻 **[v014bw-beta](https://github.com/v014bw-beta)**
+* 🤖 **[guswndeks](https://github.com/guswndeks)** 
 
 ---
 <p align="center">
