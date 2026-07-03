@@ -1,10 +1,6 @@
 # ⚡ ai-dev-team3
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=111111&text_color=00FF99&height=180&section=header&text=AI%20Agent%20Lab&fontSize=55&animation=fadeIn" alt="Header" />
-</p>
-
-<p align="center">
   <strong>Building Next-Generation Autonomous AI Agents & Intelligent Ecosystems</strong>
 </p>
 
@@ -18,7 +14,7 @@
 
 ## 🛠️ Tech Stack & Agent Architecture
 
-저희 팀은 LLM 오케스트레이션과 독립적인 에이전트 워크플로우를 설계하며, 사용자에게 유기적인 AI 경험을 제공하는 웹 서비스를 구축합니다.
+저희 팀은 LLM과 독립적인 에이전트 워크플로우를 설계하며, 사용자에게 유기적인 AI 경험을 제공하는 웹 서비스를 구축합니다.
 
 ### 🤖 Core AI Engine
 ```text
