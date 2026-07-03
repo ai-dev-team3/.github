@@ -1,38 +1,74 @@
-# ⚡ ai-dev-team3
+<div align="center">
 
-<p align="center">
-  <strong>Building Next-Generation Autonomous AI Agents & Intelligent Ecosystems</strong>
+# ⚡ AI DEV TEAM 3
+
+### Building Intelligent AI Agents for Real-World Applications
+
+Designing autonomous AI systems powered by **LLMs**, **LangGraph**, and **Multi-Agent Architectures**.
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/AI-Agents-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-Workflow-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multi--Agent-System-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents-00FF99?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Framework-LangGraph-orange?style=flat-square" alt="Framework" />
-  <img src="https://img.shields.io/badge/Architecture-Multi--Agent-blue?style=flat-square" alt="Architecture" />
-</p>
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Agent Architecture
+# 🚀 What We Build
 
-저희 팀은 LLM과 독립적인 에이전트 워크플로우를 설계하며, 사용자에게 유기적인 AI 경험을 제공하는 웹 서비스를 구축합니다.
+We build AI applications that go beyond simple chatbots.
 
-### 🛠️ Core AI Tech Stack 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LangGraph-Orange?style=flat-square" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/AI--Agents-00FF99?style=flat-square&logo=openai&logoColor=black" alt="AI Agents" />
-</p>
+Our focus is designing **autonomous agent workflows**, enabling multiple AI agents to collaborate, reason, and execute complex tasks within modern web services.
 
-## 👥 Members
-* 🦊 **[seungcle](https://github.com/seungcle)** 
-* 🐰 **[sowjd](https://github.com/sowjd)** 
-* 🐻 **[v014bw-beta](https://github.com/v014bw-beta)**
-* 🤖 **[guswndeks](https://github.com/guswndeks)** 
+### Core Areas
+
+* 🤖 Autonomous AI Agents
+* 🔀 LangGraph Workflow Design
+* 🧠 Multi-Agent Collaboration
+* 🔗 LLM Integration
+* 🌐 AI-Powered Web Services
 
 ---
-<p align="center">
-  <i>Let's build something amazing together! ✨</i>
+
+# 🛠 Tech Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-F97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+
 </p>
+
+
+
+---
+
+# 👥 Team
+
+| Member         | GitHub                         |
+| -------------- | ------------------------------ |
+| 🦊 seungcle    | https://github.com/seungcle    |
+| 🐰 sowjd       | https://github.com/sowjd       |
+| 🐻 v014bw-beta | https://github.com/v014bw-beta |
+| 🤖 guswndeks   | https://github.com/guswndeks   |
+
+---
+
+<div align="center">
+
+### *Building the Future of Autonomous AI.*
+
+⭐ If you like our work, don't forget to star the repositories.
+
+</div>
