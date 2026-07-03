@@ -21,7 +21,7 @@
 [LangChain] ──> [LangGraph (State Management)] ──> [Autonomous Agents]
 
 ## 👥 Members
-* 🦊 **[팀원1 이름](https://github.com/팀원1-GitHub-ID)** 
+* 🦊 **[seungcle](https://github.com/seungcle)** 
 * 🐰 **[팀원2 이름](https://github.com/팀원2-GitHub-ID)** 
 * 🐻 **[팀원3 이름](https://github.com/팀원3-GitHub-ID)** 
 
