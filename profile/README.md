@@ -1,42 +1,28 @@
-# 🚀 Welcome to ai-dev-team3!
+# ⚡ ai-dev-team3
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ai-dev-team3&fontSize=70&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=111111&text_color=00FF99&height=180&section=header&text=AI%20Agent%20Lab&fontSize=55&animation=fadeIn" alt="Header" />
 </p>
-
-## 🧑‍💻 About Us
-> **우리는 혁신적인 AI 기술을 탐구하고 개발하는 팀입니다.**
-* 💡 **Vision:** 데이터와 인공지능으로 더 나은 미래를 만듭니다.
-* 🛠️ **Main Focus:** 머신러닝 모델링, LLM 애플리케이션 서비스 개발 및 최적화
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 Artificial Intelligence & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-</p>
-
-### 🌐 Web & DevOps
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
-
----
-
-## 📈 Organization Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ai-dev-team3&show_icons=true&theme=radial" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ai-dev-team3&layout=compact&theme=radial" alt="Top Languages" />
+  <strong>Building Next-Generation Autonomous AI Agents & Intelligent Ecosystems</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents-00FF99?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Framework-LangGraph-orange?style=flat-square" alt="Framework" />
+  <img src="https://img.shields.io/badge/Architecture-Multi--Agent-blue?style=flat-square" alt="Architecture" />
 </p>
 
 ---
+
+## 🛠️ Tech Stack & Agent Architecture
+
+저희 팀은 LLM 오케스트레이션과 독립적인 에이전트 워크플로우를 설계하며, 사용자에게 유기적인 AI 경험을 제공하는 웹 서비스를 구축합니다.
+
+### 🤖 Core AI Engine
+```text
+[LangChain] ──> [LangGraph (State Management)] ──> [Autonomous Agents]
 
 ## 👥 Members
 * 🦊 **[팀원1 이름](https://github.com/팀원1-GitHub-ID)** 
