@@ -17,7 +17,7 @@
 저희 팀은 LLM과 독립적인 에이전트 워크플로우를 설계하며, 사용자에게 유기적인 AI 경험을 제공하는 웹 서비스를 구축합니다.
 
 ### 🤖 Core AI Engine
-```text
+
 [LangChain] ──> [LangGraph (State Management)] ──> [Autonomous Agents]
 
 ## 👥 Members
